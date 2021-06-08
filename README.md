@@ -6,7 +6,7 @@
 
 <img src="https://github.com/oshrit2019/GetTaxi/blob/main/2.jpeg" width=30% height=30%>
 
-### Register Page
+### Registration Page
 
 <img src="https://github.com/oshrit2019/GetTaxi/blob/main/4.jpeg" width=30% height=30%>
  
